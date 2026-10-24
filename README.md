@@ -2,6 +2,8 @@
 
 A Pong game built with C++ and Raylib.
 
+!\[Gameplay](screenshots/game.png)
+
 \*\*Features
 
 * Two-player paddles
